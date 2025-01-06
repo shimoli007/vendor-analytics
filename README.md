@@ -1,7 +1,7 @@
-# Twiga Foods Vendor Analytics System
+# Foods Vendor Analytics System
 
 ## Project Overview
-An ETL and analytics system for Twiga Foods' B2B platform that processes vendor order data to provide actionable business insights.
+An ETL and analytics system for a Foods' B2B platform that processes vendor order data to provide actionable business insights.
 
 ### Business Context
 - Processes data for 140,000+ small retailers
