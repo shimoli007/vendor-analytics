@@ -84,6 +84,6 @@ TWIGA_VENDOR_ANALYTICS/
 - Advanced security features
 
 ## Contact Information
-[Your Name]
-[Your Email]
-[Project Repository Link]
+Duncan Shimoli
+danshimoli@gmail.com
+
